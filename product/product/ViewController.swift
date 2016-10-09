@@ -13,7 +13,10 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // 测试如果在同一个文件里修改  怎么解决冲突
+<<<<<<< HEAD
         // 追加
+=======
+>>>>>>> 682dfc0b23929d72817a3dfc0cf3f2646984fede
     }
     
     override func didReceiveMemoryWarning() {
