@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC769AD81DA9E755008BE6D6 /* FactoryUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC769AD71DA9E755008BE6D6 /* FactoryUI.swift */; };
+		BC769ADA1DA9E7DD008BE6D6 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC769AD91DA9E7DD008BE6D6 /* RootViewController.swift */; };
+		BC769ADD1DA9E833008BE6D6 /* MusicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC769ADC1DA9E833008BE6D6 /* MusicViewController.swift */; };
+		BC769ADF1DA9E840008BE6D6 /* MyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC769ADE1DA9E840008BE6D6 /* MyViewController.swift */; };
+		BC769AE11DA9E855008BE6D6 /* YYMViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC769AE01DA9E855008BE6D6 /* YYMViewController.swift */; };
+		BC769AE31DA9E8B5008BE6D6 /* MyTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC769AE21DA9E8B5008BE6D6 /* MyTabBarController.swift */; };
+		BC769AEA1DA9EE55008BE6D6 /* 0_.png in Resources */ = {isa = PBXBuildFile; fileRef = BC769AE41DA9EE55008BE6D6 /* 0_.png */; };
+		BC769AEB1DA9EE55008BE6D6 /* 0.png in Resources */ = {isa = PBXBuildFile; fileRef = BC769AE51DA9EE55008BE6D6 /* 0.png */; };
+		BC769AEC1DA9EE55008BE6D6 /* 1_.png in Resources */ = {isa = PBXBuildFile; fileRef = BC769AE61DA9EE55008BE6D6 /* 1_.png */; };
+		BC769AED1DA9EE55008BE6D6 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = BC769AE71DA9EE55008BE6D6 /* 1.png */; };
+		BC769AEE1DA9EE55008BE6D6 /* 2_.png in Resources */ = {isa = PBXBuildFile; fileRef = BC769AE81DA9EE55008BE6D6 /* 2_.png */; };
+		BC769AEF1DA9EE55008BE6D6 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = BC769AE91DA9EE55008BE6D6 /* 2.png */; };
 		BCC620971DA9DB0E002C8262 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCC620961DA9DB0E002C8262 /* AppDelegate.swift */; };
 		BCC620991DA9DB0E002C8262 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCC620981DA9DB0E002C8262 /* ViewController.swift */; };
 		BCC6209C1DA9DB0E002C8262 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCC6209A1DA9DB0E002C8262 /* Main.storyboard */; };
@@ -15,6 +27,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BC769AD71DA9E755008BE6D6 /* FactoryUI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactoryUI.swift; sourceTree = "<group>"; };
+		BC769AD91DA9E7DD008BE6D6 /* RootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
+		BC769ADC1DA9E833008BE6D6 /* MusicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MusicViewController.swift; sourceTree = "<group>"; };
+		BC769ADE1DA9E840008BE6D6 /* MyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyViewController.swift; sourceTree = "<group>"; };
+		BC769AE01DA9E855008BE6D6 /* YYMViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YYMViewController.swift; sourceTree = "<group>"; };
+		BC769AE21DA9E8B5008BE6D6 /* MyTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTabBarController.swift; sourceTree = "<group>"; };
+		BC769AE41DA9EE55008BE6D6 /* 0_.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0_.png; sourceTree = "<group>"; };
+		BC769AE51DA9EE55008BE6D6 /* 0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0.png; sourceTree = "<group>"; };
+		BC769AE61DA9EE55008BE6D6 /* 1_.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1_.png; sourceTree = "<group>"; };
+		BC769AE71DA9EE55008BE6D6 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		BC769AE81DA9EE55008BE6D6 /* 2_.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2_.png; sourceTree = "<group>"; };
+		BC769AE91DA9EE55008BE6D6 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
 		BCC620931DA9DB0E002C8262 /* product.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = product.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCC620961DA9DB0E002C8262 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BCC620981DA9DB0E002C8262 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -35,6 +59,76 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BC769AD01DA9E722008BE6D6 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		BC769AD11DA9E722008BE6D6 /* Public */ = {
+			isa = PBXGroup;
+			children = (
+				BC769AE21DA9E8B5008BE6D6 /* MyTabBarController.swift */,
+			);
+			path = Public;
+			sourceTree = "<group>";
+		};
+		BC769AD21DA9E722008BE6D6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				BC769AD31DA9E722008BE6D6 /* image */,
+				BC769AD41DA9E722008BE6D6 /* Tools */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		BC769AD31DA9E722008BE6D6 /* image */ = {
+			isa = PBXGroup;
+			children = (
+				BC769AE41DA9EE55008BE6D6 /* 0_.png */,
+				BC769AE51DA9EE55008BE6D6 /* 0.png */,
+				BC769AE61DA9EE55008BE6D6 /* 1_.png */,
+				BC769AE71DA9EE55008BE6D6 /* 1.png */,
+				BC769AE81DA9EE55008BE6D6 /* 2_.png */,
+				BC769AE91DA9EE55008BE6D6 /* 2.png */,
+			);
+			path = image;
+			sourceTree = "<group>";
+		};
+		BC769AD41DA9E722008BE6D6 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				BC769AD71DA9E755008BE6D6 /* FactoryUI.swift */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		BC769AD51DA9E722008BE6D6 /* ThirdLib */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ThirdLib;
+			sourceTree = "<group>";
+		};
+		BC769AD61DA9E722008BE6D6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		BC769ADB1DA9E818008BE6D6 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				BC769ADC1DA9E833008BE6D6 /* MusicViewController.swift */,
+				BC769ADE1DA9E840008BE6D6 /* MyViewController.swift */,
+				BC769AE01DA9E855008BE6D6 /* YYMViewController.swift */,
+			);
+			name = Controllers;
+			path = Resources/Controllers;
+			sourceTree = "<group>";
+		};
 		BCC6208A1DA9DB0E002C8262 = {
 			isa = PBXGroup;
 			children = (
@@ -56,9 +150,16 @@
 			children = (
 				BCC620961DA9DB0E002C8262 /* AppDelegate.swift */,
 				BCC620981DA9DB0E002C8262 /* ViewController.swift */,
+				BC769AD91DA9E7DD008BE6D6 /* RootViewController.swift */,
 				BCC6209A1DA9DB0E002C8262 /* Main.storyboard */,
 				BCC6209D1DA9DB0E002C8262 /* Assets.xcassets */,
 				BCC6209F1DA9DB0E002C8262 /* LaunchScreen.storyboard */,
+				BC769ADB1DA9E818008BE6D6 /* Controllers */,
+				BC769AD01DA9E722008BE6D6 /* Models */,
+				BC769AD11DA9E722008BE6D6 /* Public */,
+				BC769AD21DA9E722008BE6D6 /* Resources */,
+				BC769AD51DA9E722008BE6D6 /* ThirdLib */,
+				BC769AD61DA9E722008BE6D6 /* Views */,
 				BCC620A21DA9DB0E002C8262 /* Info.plist */,
 			);
 			path = product;
@@ -122,9 +223,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC769AEA1DA9EE55008BE6D6 /* 0_.png in Resources */,
+				BC769AEB1DA9EE55008BE6D6 /* 0.png in Resources */,
+				BC769AEE1DA9EE55008BE6D6 /* 2_.png in Resources */,
 				BCC620A11DA9DB0E002C8262 /* LaunchScreen.storyboard in Resources */,
+				BC769AEC1DA9EE55008BE6D6 /* 1_.png in Resources */,
 				BCC6209E1DA9DB0E002C8262 /* Assets.xcassets in Resources */,
+				BC769AEF1DA9EE55008BE6D6 /* 2.png in Resources */,
 				BCC6209C1DA9DB0E002C8262 /* Main.storyboard in Resources */,
+				BC769AED1DA9EE55008BE6D6 /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +243,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				BCC620991DA9DB0E002C8262 /* ViewController.swift in Sources */,
+				BC769AE31DA9E8B5008BE6D6 /* MyTabBarController.swift in Sources */,
+				BC769ADD1DA9E833008BE6D6 /* MusicViewController.swift in Sources */,
+				BC769AD81DA9E755008BE6D6 /* FactoryUI.swift in Sources */,
+				BC769AE11DA9E855008BE6D6 /* YYMViewController.swift in Sources */,
+				BC769ADA1DA9E7DD008BE6D6 /* RootViewController.swift in Sources */,
+				BC769ADF1DA9E840008BE6D6 /* MyViewController.swift in Sources */,
 				BCC620971DA9DB0E002C8262 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -286,6 +399,7 @@
 				BCC620A71DA9DB0E002C8262 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
