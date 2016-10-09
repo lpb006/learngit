@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        // 测试如果在同一个文件里修改  怎么解决冲突
     }
 
     override func didReceiveMemoryWarning() {
